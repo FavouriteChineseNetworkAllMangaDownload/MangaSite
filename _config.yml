@@ -4,21 +4,14 @@
 title: Web Manga Download Site
 # Short description of your site
 description: A Web Manga Download Site
-Item baz
-Item zip
+
 # Your name to show in the footer
 author: Mohammed Osama
-
 theme: jekyll-theme-minimal
 
-# --- List of links in the navigation bar --- #
-
-navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://favouritechinesenetworkallmangadownload.github.io/MangaSite/"
-
+# ---- #
+kramdown:
+  html_to_native: true
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
@@ -36,10 +29,10 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
-social-network-links:
-  email: "SampleAdminServersNetwork@SampleAdminServersNetwork.com"
-  rss: true
-
+#social-network-links:
+#  email: "SampleAdminServersNetwork@SampleAdminServersNetwork.com"
+#  rss: true
+#
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -90,7 +83,7 @@ date_format: "%B %-d, %Y"
 
 # Output options (more information on Jekyll's site)
 #timezone: "America/Vancouver"
-#markdown: kramdown
+markdown: kramdown
 #highlighter: rouge
 permalink: /:year-:month-:day-:title/
 #paginate: 5
@@ -100,8 +93,9 @@ permalink: /:year-:month-:day-:title/
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  - scope:
-      path: ""
+  -
+    scope:
+      path: "Default.html"
       type: "posts"
     values:
       layout: "post"
@@ -110,7 +104,7 @@ defaults:
       readtime: false # add estimated reading time on all blog posts
   -
     scope:
-      path: "" # all files
+      path: "Default.html" # all files
     values:
       layout: "page"
       show-avatar: true
@@ -119,8 +113,8 @@ defaults:
 exclude:
   - (Manga)README.md
   - LICENSE
-#  - README.md
-#  - docs/
+  - MangaSite.md
+  - Default.html
 
 #plugins:
 #  - jekyll-paginate
