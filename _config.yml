@@ -4,8 +4,8 @@ description: A Web Manga Download Site
 #url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mohamedosama914
 #gitlab_username:  pages
-theme: jekyll-theme-minimal
-#theme: minimal-mistakes-jekyll
+#theme: jekyll-theme-minimal
+theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 Mint skin: mint
 locale: "en"
@@ -13,9 +13,9 @@ title_separator: "default Web | Manga Download Site"
 subtitle: "Version 2.0"
 name: "Manga Download"
 header:
-#  teaser: /assets/images/my-awesome-post-teaser.jpg
-#  logo: "/assets/images/88x88.png"
-#masthead_title: "My Custom Download Site"
+  teaser: /assets/images/my-awesome-post-teaser.jpg
+  logo: "/assets/images/88x88.png"
+masthead_title: "My Custom Download Site"
 #head_scripts:
 #  - https://code.jquery.com/jquery-3.2.1.min.js
 permalink: /:categories/:title/
@@ -27,7 +27,6 @@ defaults:
       type: posts
     values:
       show_date: true
-
 defaults:
   # _posts
   - scope:
@@ -35,7 +34,7 @@ defaults:
       type: posts
     values:
       read_time: true      
-words_per_minute: 250
+#words_per_minute: 250
 #.post__meta-sep::before {
 #  content: "\2022";
 #  padding-left: 0.5em;
@@ -51,7 +50,6 @@ defaults:
 #  provider: "disqus"
 #  disqus:
 #    shortname: "your-disqus-shortname"
-
 #repository: "username/repo-name"
 #repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 #comments:
@@ -65,8 +63,8 @@ defaults:
 #  secret: # ""
 #atom_feed:
 #  path: "http://feeds.feedburner.com/youFeedname"
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
 #google:
 #  search_engine_id: YOUR_SEARCH_ENGINE_ID  
 #bing_site_verification: "0FC3FD70512616B052E755A56F8952D"
@@ -77,11 +75,11 @@ plugins:
 #  google:
 #    tracking_id: "UA-1234567-8"
 #    anonymize_ip: false # default  
-author:
-  name: "Your Name"
+####author:
+#  name: "Your Name"
 #  avatar: "/assets/images/bio-photo.jpg"
 #  bio: "I am an **amazing** person." # Note: Markdown is allowed
-  location: "Somewhere"
+#  location: "Somewhere"
 #  links:
 #    - label: "Made Mistakes"
 #      icon: "fas fa-fw fa-link"
@@ -133,8 +131,8 @@ defaults:
       type: foo
     values:
       layout: single      
-#paginate: 5
-#paginate_path: /recent/page:num/
+paginate: 5
+paginate_path: /recent/page:num/
 timezone: America/New_York
 category_archive:
   type: jekyll-archives
