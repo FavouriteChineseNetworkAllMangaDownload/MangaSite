@@ -5,8 +5,6 @@ url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & p
 #github_username:  mohamedosama914
 #gitlab_username:  pages
 #theme: jekyll-theme-minimal
-#plugins:
-#  - jekyll-feed
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #Mint skin: mint
@@ -18,7 +16,62 @@ header:
   teaser: /assets/images/my-awesome-post-teaser.jpg
   logo: "/assets/images/88x88.png"
 masthead_title: "My Custom Download Site"
+head_scripts:
+  - https://code.jquery.com/jquery-3.2.1.min.js
+permalink: /:categories/:title/
+breadcrumbs: true  # disabled by default
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      show_date: true
 
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true      
+words_per_minute: 250
+.post__meta-sep::before {
+  content: "\2022";
+  padding-left: 0.5em;
+  padding-right: 0.5em;
+}
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      comments: true
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "your-disqus-shortname"
+
+#repository: "username/repo-name"
+#repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+#comments:
+#  provider: "utterances"
+#  utterances:
+#    theme: "github-light" # "github-dark"
+#    issue_term: "pathname"
+reCaptcha:
+  enabled: true
+#  siteKey: # ""
+#  secret: # ""
+atom_feed:
+  path: "http://feeds.feedburner.com/youFeedname"
+plugins:
+  - jekyll-feed
+  
+  
+  
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
