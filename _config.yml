@@ -6,8 +6,8 @@ url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & p
 #gitlab_username:  pages
 #theme: jekyll-theme-minimal
 theme: minimal-mistakes-jekyll
-#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-Mint skin: mint
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+#Mint skin: mint
 #locale: "en"
 title_separator: "default Web | Manga Download Site"
 subtitle: "Version 2.0"
