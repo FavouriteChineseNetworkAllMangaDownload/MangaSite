@@ -1,5 +1,5 @@
-The Star Emperor (Reborn 80 000 Years) Chapters Chinese Sub
-
+##### The Star Emperor (Reborn 80 000 Years) Chapters Chinese Sub
+```html
 <html>
 <head>
 <title>Manga</title>
@@ -7,22 +7,20 @@ The Star Emperor (Reborn 80 000 Years) Chapters Chinese Sub
 <meta charset="UTF-8">
 <meta name="Description" content="This web App is all about Enjoy your Favourite Manga at the same place in a single Clicks.">
 </head>
-<body>
+<body>    
     <nav id="mainnav">
-        <div class="logo">
-            <a href="#">
-                <img src="TempIcon.png" alt="-----">
-            </a>
-        </div>
+    <div class="logo">
+    <a href="#">
+    <img src="TempIcon.png" alt="-----">
+    </a>
+    </div>
         <ul>
-            <li>Home</li>
-            <li>Member login</li>
+        <li>Home</li>
+        <li>Member login</li>
         </ul>
     </nav>
-
-
-
-<script src="main.js"></script>
+    
 </body>
-</html>
 
+</html>
+```
