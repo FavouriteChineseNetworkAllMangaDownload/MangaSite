@@ -1,14 +1,14 @@
 title: Web Manga Download Site
 description: A Web Manga Download Site
 #baseurl: "/MangaSite" # the subpath of your site, e.g. /blog
-url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mohamedosama914
 #gitlab_username:  pages
 theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
-#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 Mint skin: mint
-#locale: "en"
+locale: "en"
 title_separator: "default Web | Manga Download Site"
 subtitle: "Version 2.0"
 name: "Manga Download"
@@ -17,9 +17,9 @@ header:
 #  logo: "/assets/images/88x88.png"
 #masthead_title: "My Custom Download Site"
 #head_scripts:
-  - https://code.jquery.com/jquery-3.2.1.min.js
-#permalink: /:categories/:title/
-#breadcrumbs: true  # disabled by default
+#  - https://code.jquery.com/jquery-3.2.1.min.js
+permalink: /:categories/:title/
+breadcrumbs: true  # disabled by default
 defaults:
   # _posts
   - scope:
