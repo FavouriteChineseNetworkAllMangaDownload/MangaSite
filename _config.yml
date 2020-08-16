@@ -1,17 +1,17 @@
+name: "Manga Download"
+locale: "en"
+subtitle: "Version 2.0"
+title_separator: "default Web | Manga Download Site"
 title: Web Manga Download Site
 description: A Web Manga Download Site
+theme: jekyll-theme-minimal
+Mint skin: mint
 #baseurl: "/MangaSite" # the subpath of your site, e.g. /blog
 #url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #github_username:  mohamedosama914
 #gitlab_username:  pages
-theme: jekyll-theme-minimal
 #theme: minimal-mistakes-jekyll
 #minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-Mint skin: mint
-locale: "en"
-title_separator: "default Web | Manga Download Site"
-subtitle: "Version 2.0"
-name: "Manga Download"
 header:
   teaser: /assets/images/my-awesome-post-teaser.jpg
   logo: "/assets/images/88x88.png"
