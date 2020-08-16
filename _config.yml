@@ -1,9 +1,8 @@
 title: Web Manga Download Site
 description: A Web Manga Download Site
 baseurl: "/MangaSite/Default/index.html" # the subpath of your site, e.g. /blog
-url: "https://favouritechinesenetworkallmangadownload.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-
-
+url: "https://favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  mohamedosama914
 gitlab_username:  pages
 theme: jekyll-theme-minimal
 plugins:
