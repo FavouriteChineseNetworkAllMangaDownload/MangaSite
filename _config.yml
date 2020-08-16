@@ -1,13 +1,13 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
-
+title: Web Manga Download Site
 # Short description of your site
-description: A virtual proof that I'm awesome
-
+description: A Web Manga Download Site
+Item baz
+Item zip
 # Your name to show in the footer
-author: Some Person
+author: Mohammed Osama
 
 theme: jekyll-theme-minimal
 
@@ -16,18 +16,16 @@ theme: jekyll-theme-minimal
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://favouritechinesenetworkallmangadownload.github.io/MangaSite/"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
-
+##avatar: "/assets/img/avatar-icon.png"
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-round-avatar: true
+##round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -39,11 +37,9 @@ round-avatar: true
 # Uncomment the links you want to show and add your information to each one.
 # If you don't want to show a link to an RSS feed, set rss to "false".
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "SampleAdminServersNetwork@SampleAdminServersNetwork.com"
   rss: true
+
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -73,16 +69,16 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "favouritechinesenetworkallmangadownload.github.io/MangaSite/"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+#link-tags: true
 
 # --- Misc --- #
 
 # Character used to separate site title and description in HTML document title
 # and RSS feed title
-title-separator: "-"
+#title-separator: "-"
 
 # Ruby Date Format to show dates of posts
 date_format: "%B %-d, %Y"
@@ -93,19 +89,18 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Vancouver"
-markdown: kramdown
-highlighter: rouge
+#timezone: "America/Vancouver"
+#markdown: kramdown
+#highlighter: rouge
 permalink: /:year-:month-:day-:title/
-paginate: 5
+#paginate: 5
 
-kramdown:
-  input: GFM
+#kramdown:
+#  input: GFM
 
 # Default YAML values (more information on Jekyll's site)
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
@@ -122,15 +117,11 @@ defaults:
 
 # Exclude these files from production site
 exclude:
-  - CHANGELOG.md
-  - CNAME
-  - Gemfile
-  - Gemfile.lock
+  - (Manga)README.md
   - LICENSE
-  - README.md
-  - screenshot.png
-  - docs/
+#  - README.md
+#  - docs/
 
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
+#plugins:
+#  - jekyll-paginate
+#  - jekyll-sitemap
