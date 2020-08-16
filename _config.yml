@@ -2,11 +2,11 @@ title: Web Manga Download Site
 description: A Web Manga Download Site
 baseurl: "/MangaSite/Default/index.html" # the subpath of your site, e.g. /blog
 url: "https://favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  mohamedosama914
-gitlab_username:  pages
+#github_username:  mohamedosama914
+#gitlab_username:  pages
 theme: jekyll-theme-minimal
-plugins:
-  - jekyll-feed
+#plugins:
+#  - jekyll-feed
   
   
 # Exclude from processing.
@@ -16,8 +16,8 @@ plugins:
 #
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
-#
-# exclude:
+exclude:
+    - (Manga)README.md
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
