@@ -36,11 +36,10 @@ defaults:
     values:
       read_time: true      
 words_per_minute: 250
-.post__meta-sep::before {
-  content: "\2022";
-  padding-left: 0.5em;
-  padding-right: 0.5em;
-}
+#.post__meta-sep::before {
+#  content: "\2022";
+#  padding-left: 0.5em;
+#  padding-right: 0.5em; }
 defaults:
   # _posts
   - scope:
