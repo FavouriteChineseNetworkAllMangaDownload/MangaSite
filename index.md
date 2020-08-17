@@ -23,7 +23,7 @@
 
 
 layout: home
-posts: posts
+pages: pages
 # pages: home
 # posts: home
 ---
