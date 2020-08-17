@@ -14,6 +14,6 @@
 #
 layout:
   home : WebManga
-  master : WebManga
+  layout : MangaSites
 ---
 
