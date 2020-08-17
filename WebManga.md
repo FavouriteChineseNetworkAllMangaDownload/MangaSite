@@ -1,1 +1,1 @@
-# [MangaSites.md](MangaSites.md)
+# Web Manga
