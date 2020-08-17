@@ -1,1 +1,8 @@
-## Web Manga
+---
+
+
+
+layout:
+  home : WebManga
+  master : WebManga
+---
