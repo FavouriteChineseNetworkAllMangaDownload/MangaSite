@@ -1,48 +1,14 @@
-theme: jekyll-theme-cayman
 title: Web Manga Download Site
 description: A Favourite Chinese Network All Manga
 show_downloads: true
 #google_analytics:
-#title_separator: Web Manga Download Site
-#defaults:  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      show_date: true
-#      read_time: true
-#timezone: America/New_York
-#category_archive:
-#  type: jekyll-archives
-#  path: /categories/
-#tag_archive:
-#  type: jekyll-archives
-#  path: /tags/
-#jekyll-archives:
-#  enabled:
-#    - categories
-#    - tags
-#  layouts:
-#    category: archive-taxonomy
-#    tag: archive-taxonomy
-#  permalinks:
-#    category: /categories/:name/
-#    tag: /tags/:name/
-#permalink: /:categories/:title/
-#cayman:
-#  date_format: "%b %-d, %Y"
-#  category_archive:
-#    type: jekyll-archives
-#    path: /categories/
-#  layouts:
-#    category: archive-taxonomy
-#  permalinks:
-#    category: /categories/:name/
-
-header_pages:
-   - WebManga.md
-   - WebSite.md  
-#  - 
-#  -
-#  -
-#  -
+cayman-blog:
+  date_format: "%b %-d, %Y"
+theme: jekyll-theme-cayman  
+author: "Nicolas Morange"
+#image: /thumbnail-jumbo.png
+#username: lorepirri
+#  site:
+#  admins:
+#
+#
