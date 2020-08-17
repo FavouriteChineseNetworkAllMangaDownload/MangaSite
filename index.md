@@ -12,8 +12,15 @@
 # Edit cayman-blog's home layout in _layouts instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
-layout:
-  home : WebManga
-  layout : MangaSites
----
+# layout: home
+# default.html
+# home.html
+# page.html
+# post.html
+# WebManga
+# MangaSites
 
+
+
+layout: post
+---
