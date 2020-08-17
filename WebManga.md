@@ -1,8 +1,1 @@
----
-
-
-
-layout:
-  home : WebManga
-  master : WebManga
----
+# [MangaSites.md](MangaSites.md)
