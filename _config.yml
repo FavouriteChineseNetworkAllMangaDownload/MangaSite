@@ -1,6 +1,7 @@
+name: "Manga Download"
+title: Web Manga Download Site 
 theme: jekyll-theme-cayman
-#minimal_mistakes_skin: "neon" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-#title: Web Manga Download Site #name: "Manga Download"
+minimal_mistakes_skin: "neon" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 #title_separator: "Web Manga Download Site"
 #defaults:  # _posts
 #  - scope:
@@ -29,14 +30,13 @@ theme: jekyll-theme-cayman
 #permalink: /:categories/:title/
 cayman:
   date_format: "%b %-d, %Y"
-  permalink: /:categories/:title/
   category_archive:
     type: jekyll-archives
     path: /categories/
   layouts:
     category: archive-taxonomy
-#  permalinks:
-#    category: /categories/:name/
+  permalinks:
+    category: /categories/:name/
 header_pages:
    - WebManga.md
    - WebSite.md
