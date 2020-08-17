@@ -23,4 +23,7 @@
 
 
 layout: home
+permalink: /about/
+pages: pages
+posts: posts
 ---
