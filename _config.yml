@@ -4,13 +4,13 @@ show_downloads: false
 google_analytics:
 cayman-blog:
   date_format: "%b %-d, %Y"
-theme: jekyll-theme-cayman  
-author: "Nicolas Morange"
+theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman-blog
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
-#image: /thumbnail-jumbo.png
-#username: lorepirri
-#  site:
-#  admins:
+#
+#
+#
+#
 #
 #
