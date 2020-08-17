@@ -1,8 +1,9 @@
-name: "Manga Download"
-title: Web Manga Download Site 
 theme: jekyll-theme-cayman
-minimal_mistakes_skin: "neon" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-#title_separator: "Web Manga Download Site"
+title: Web Manga Download Site
+description: A Favourite Chinese Network All Manga
+show_downloads: true
+#google_analytics:
+#title_separator: Web Manga Download Site
 #defaults:  # _posts
 #  - scope:
 #      path: ""
@@ -28,18 +29,19 @@ minimal_mistakes_skin: "neon" #"default", "air", "aqua", "contrast", "dark", "di
 #    category: /categories/:name/
 #    tag: /tags/:name/
 #permalink: /:categories/:title/
-cayman:
-  date_format: "%b %-d, %Y"
-  category_archive:
-    type: jekyll-archives
-    path: /categories/
-  layouts:
-    category: archive-taxonomy
-  permalinks:
-    category: /categories/:name/
+#cayman:
+#  date_format: "%b %-d, %Y"
+#  category_archive:
+#    type: jekyll-archives
+#    path: /categories/
+#  layouts:
+#    category: archive-taxonomy
+#  permalinks:
+#    category: /categories/:name/
+
 header_pages:
    - WebManga.md
-   - WebSite.md
+   - WebSite.md  
 #  - 
 #  -
 #  -
