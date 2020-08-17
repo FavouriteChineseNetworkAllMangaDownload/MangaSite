@@ -1,119 +1,15 @@
-name: "Manga Download"
-title_separator: "Web Manga Download Site"
-title: Web Manga Download Site
 theme: jekyll-theme-cayman
-minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-masthead_title: "My Custom Download Site"
-permalink: /:categories/:title/
-breadcrumbs: true  # disabled by default
-defaults:
-  # _posts
+minimal_mistakes_skin: "neon" #"default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+name: "Manga Download"
+title: Web Manga Download Site
+title_separator: "Web Manga Download Site"
+defaults:  # _posts
   - scope:
       path: ""
       type: posts
     values:
       show_date: true
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      read_time: true      
-#words_per_minute: 250
-#.post__meta-sep::before {
-#  content: "\2022";
-#  padding-left: 0.5em;
-#  padding-right: 0.5em; }
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      comments: true
-#comments:
-#  provider: "disqus"
-#  disqus:
-#    shortname: "your-disqus-shortname"
-#repository: "username/repo-name"
-#repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-#comments:
-#  provider: "utterances"
-#  utterances:
-#    theme: "github-light" # "github-dark"
-#    issue_term: "pathname"
-#reCaptcha:
-#  enabled: true
-#  siteKey: # ""
-#  secret: # ""
-#atom_feed:
-#  path: "http://feeds.feedburner.com/youFeedname"
-#plugins:
-#  - jekyll-feed
-#google:
-#  search_engine_id: YOUR_SEARCH_ENGINE_ID  
-#bing_site_verification: "0FC3FD70512616B052E755A56F8952D"
-#yandex_site_verification: "2132801JL"  
-#og_image: /assets/images/site-logo.png
-#analytics:
-#  provider: "google-gtag"
-#  google:
-#    tracking_id: "UA-1234567-8"
-#    anonymize_ip: false # default  
-#  links:
-#    - label: "Made Mistakes"
-#      icon: "fas fa-fw fa-link"
-#      url: "https://mademistakes.com"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/mmistakes"
-#    - label: "GitHub"
-#      icon: "fab fa-fw fa-github"
-#      url: "https://github.com/mmistakes"
-#    - label: "Instagram"
-#      icon: "fab fa-fw fa-instagram"
-#      url: "https://instagram.com/mmistakes"
-footer:
-  links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mmistakes"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmistakes"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
       read_time: true
-      comments: true
-      share: true
-      related: true
-
-defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single      
-defaults:
-  # _foo
-  - scope:
-      path: ""
-      type: foo
-    values:
-      layout: single      
-paginate: 5
-paginate_path: /recent/page:num/
 timezone: America/New_York
 category_archive:
   type: jekyll-archives
@@ -130,19 +26,5 @@ jekyll-archives:
     tag: archive-taxonomy
   permalinks:
     category: /categories/:name/
-    tag: /tags/:name/ 
-defaults:
-  - scope:
-      path: ""
-      type: tag
-    values:
-      author_profile: true
-  - scope:
-      path: ""
-      type: category
-    values:
-      comments: false      
-compress_html:
-  clippings: all
-  ignore:
-    envs: development  # disable compression in dev environment
+    tag: /tags/:name/
+permalink: /:categories/:title/    
