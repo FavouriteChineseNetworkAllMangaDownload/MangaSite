@@ -23,7 +23,7 @@
 
 
 layout: home
-favouritechinesenetworkallmangadownload.github.io: MangaSites
-pages: home
-posts: home
+posts: posts
+# pages: home
+# posts: home
 ---
