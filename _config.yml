@@ -1,28 +1,9 @@
 name: "Manga Download"
-locale: "en"
-#subtitle: "Version 2.0"
-title_separator: "default Web | Manga Download Site"
+title_separator: "Web Manga Download Site"
 title: Web Manga Download Site
-description: A Web Manga Download Site
 theme: jekyll-theme-cayman
-author:
-  name: "Your Name"
-#  avatar: "/assets/images/bio-photo.jpg"
-  bio: "I am an **amazing** person." # Note: Markdown is allowed
-#  location: "Somewhere"
-#minimal-mistakes-jekyll #
-#Mint skin: mint
-#baseurl: "/MangaSite" # the subpath of your site, e.g. /blog
-#url: "favouritechinesenetworkallmangadownload.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#github_username:  mohamedosama914
-#gitlab_username:  pages
-#minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
-header:
-  teaser: /assets/images/my-awesome-post-teaser.jpg
-  logo: "/assets/images/88x88.png"
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 masthead_title: "My Custom Download Site"
-#head_scripts:
-#  - https://code.jquery.com/jquery-3.2.1.min.js
 permalink: /:categories/:title/
 breadcrumbs: true  # disabled by default
 defaults:
