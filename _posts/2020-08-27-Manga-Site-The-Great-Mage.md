@@ -1,4 +1,4 @@
-
+<div align="center"><b><p>
 
 Manga Site The Great Mage Returns After 4000 Years (4000년 만에 귀환한 대마도사) | Chapters :new: (Status)
 ------ | -----
