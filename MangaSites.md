@@ -1,4 +1,4 @@
-# MangaSites.md
+# Manga Sites
 
 | Manga Sites |
 |-------------|
