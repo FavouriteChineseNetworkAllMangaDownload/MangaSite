@@ -1,4 +1,4 @@
-<!--<div align="center"><b><p>-->
+<div align="center"><b><p>
 
 |Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters :new: (Status)|
 |------- | ------|
