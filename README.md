@@ -1,4 +1,4 @@
-| Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters :new: (_Status_) |
+| **``Manga Site The Star emperor Reborn 80,000 Years (重生八万年)``** | Chapters :new: (_Status_) |
 |-------|------|
 | _[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/)_ | 114 |
 | _[Subtitle Arabic](https://mangakm.com/manga/the-star-emperor/)_ | 114 |
@@ -6,7 +6,7 @@
 | _[Subtitle Chinese](https://www.ohmanhua.com/13410/)_ | 117 |
 
 
-| Manga Site The Great Mage Returns After 4000 Years (4000년 만에 귀환한 대마도사) | Chapters :new: (_Status_) |
+| **``Manga Site The Great Mage Returns After 4000 Years (4000년 만에 귀환한 대마도사)``** | Chapters :new: (_Status_) |
 |------|-----|
 |_[Subtitle Arabic](https://www.azoramanga.com/manga/the-great-mage-returns-after-4000-years/)_ | 42 |
 |_[Subtitle Arabic](https://mangalek.com/manga/the-great-mage-returns-after-4000-years/)_ | 42 |
