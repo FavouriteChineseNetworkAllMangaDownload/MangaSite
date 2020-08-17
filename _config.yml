@@ -4,7 +4,7 @@ locale: "en"
 title_separator: "default Web | Manga Download Site"
 title: Web Manga Download Site
 description: A Web Manga Download Site
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 author:
   name: "Your Name"
 #  avatar: "/assets/images/bio-photo.jpg"
