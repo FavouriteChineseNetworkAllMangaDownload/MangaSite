@@ -8,25 +8,27 @@ theme: jekyll-theme-cayman
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman-blog
-feed:
-  posts_limit: 20
-  tags: true
-  excerpt_only: true
-  collections:
-    changes:
-      path: "/changes.xml"
-      categories:
-        - news
-        - updates
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
+#feed:
+#  posts_limit: 20
+#  tags: true
+#  excerpt_only: true
+#  collections:
+#    changes:
+#      path: "/changes.xml"
+#      categories:
+#        - news
+#        - updates
 
-gems:
-  - jekyll-feed
-  - jekyll-seo-tag  
-target-blank:
-    rel: nofollow
-plugins:
-  - jemoji
-header_page_refs: ['now', 'about', 'contact']
+#gems:
+#  - jekyll-feed
+#  - jekyll-seo-tag  
+#target-blank:
+#    rel: nofollow
+#plugins:
+#  - jemoji
+#header_page_refs: ['now', 'about', 'contact']
 #
 #
 #
