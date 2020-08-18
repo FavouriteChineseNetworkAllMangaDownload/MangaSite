@@ -20,7 +20,6 @@ url: "https://favouritechinesenetworkallmangadownload.github.io" # change this t
 #      categories:
 #        - news
 #        - updates
-
 #gems:
 #  - jekyll-feed
 #  - jekyll-seo-tag  
@@ -29,6 +28,7 @@ url: "https://favouritechinesenetworkallmangadownload.github.io" # change this t
 #plugins:
 #  - jemoji
 #header_page_refs: ['now', 'about', 'contact']
+#
 #
 #
 #
