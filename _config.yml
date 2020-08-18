@@ -5,7 +5,7 @@ google_analytics:
 cayman:
   date_format: "%b %-d, %Y"
   permalink: /:categories/:year/
-#theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #  permalink: /:categories/:year/:month/:day/:title:output_ext
