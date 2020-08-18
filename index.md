@@ -20,10 +20,8 @@
 # WebManga
 # MangaSites
 
-
-
 layout: home
-pages: pages
-# pages: home
+pages: home
+
 # posts: home
 ---
