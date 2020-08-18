@@ -4,13 +4,11 @@ show_downloads: false
 google_analytics:
 #cayman:
 #  date_format: "%b %-d, %Y"
-#theme: jekyll-theme-cayman
-theme: jekyll-rtd-theme
+theme: jekyll-theme-cayman
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #  permalink: /:categories/:year/:month/:day/:title:output_ext
 #theme: jekyll-theme-cayman-blog
-#baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 #url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 plugins:
   - jekyll-default-layout
@@ -22,5 +20,6 @@ defaults:
       path: "assets/img"
     values:
       image: true
-      
-      
+
+
+
