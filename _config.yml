@@ -8,11 +8,10 @@ google_analytics:
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman-blog
-#theme: alpha_jekyll_theme
+#image: /thumbnail-jumbo.png
+theme:
 plugins:
   - jemoji
-#image: /thumbnail-jumbo.png  
-theme:
 gems:
   - jekyll-feed
   - jekyll-seo-tag  
