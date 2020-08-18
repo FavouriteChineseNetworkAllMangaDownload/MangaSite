@@ -7,3 +7,4 @@ source 'https://rubygems.org' gemspec
 gem 'gemoji', '~> 4.0.0.rc2'
 gem 'jekyll-target-blank', '~> 2.0'
 gem 'jekyll-theme-cayman-blog', '~> 0.0.9'
+gem 'gemoji'
