@@ -21,7 +21,6 @@
 # MangaSites
 
 layout: home
-pages: home
+pages: page
 
-# posts: home
 ---
