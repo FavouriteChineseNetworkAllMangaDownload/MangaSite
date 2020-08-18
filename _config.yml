@@ -21,6 +21,7 @@ feed:
         - news
         - updates
 gems:
+  - jemoji
   - jekyll-feed
   - jekyll-seo-tag  
 #target-blank:
