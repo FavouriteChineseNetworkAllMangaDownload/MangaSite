@@ -4,8 +4,8 @@ show_downloads: false
 google_analytics:
 cayman:
   date_format: "%b %-d, %Y"
-  permalink: /:categories/:year/
 theme: jekyll-theme-cayman
+permalink: /:categories/
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #  permalink: /:categories/:year/:month/:day/:title:output_ext
