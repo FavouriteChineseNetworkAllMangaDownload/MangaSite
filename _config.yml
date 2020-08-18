@@ -10,6 +10,8 @@ theme: jekyll-theme-cayman
 #  permalink: /:categories/:year/:month/:day/:title:output_ext
 #theme: jekyll-theme-cayman-blog
 #url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
+plugins:
+  - jemoji
 defaults:
   - scope:
       path: "assets/img"
