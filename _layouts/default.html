@@ -108,6 +108,11 @@
             </a>
           </span>
         {% endif %}
+        
+
+        <!-- jekyll-seo-tag -->
+        {% seo %}
+
         <!-- Contact icon -->
         {% assign about_page = site.pages | where: "path", "about.md" | first %}
         {% if about_page.title %}
