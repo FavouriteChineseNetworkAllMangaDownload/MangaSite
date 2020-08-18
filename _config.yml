@@ -15,5 +15,22 @@ theme: jekyll-rtd-theme
 #baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 #url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 plugins:
+  - jekyll-default-layout
+  - jekyll-readme-index
+  - jekyll-github-metadata
+  - jekyll-titles-from-headings
+plugins:  
   - jekyll-feed
   - jekyll-seo-tag
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+copyright: false
+edit: false
+logo: false # relative path to your image, eg: assets/logo.png
+disqus: false # your disqus username
+addons: false
+addons_branch: false # means addons branch
+rougify: github
