@@ -13,8 +13,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-# page.html
-# post.html
-# pages: page
-# posts: post
 ---
+
