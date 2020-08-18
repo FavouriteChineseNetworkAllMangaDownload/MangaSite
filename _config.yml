@@ -9,11 +9,8 @@ cayman-blog:
   date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman-blog
 plugins:
-  - jemoji
-emoji:
-  src: "/assets/images/emoji"  
-defaults:
-  - scope:
-      path: "assets/"
-    values:
-      image: true
+  - gemoji
+#
+#
+#
+#
