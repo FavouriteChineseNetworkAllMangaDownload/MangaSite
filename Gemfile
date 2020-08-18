@@ -4,7 +4,7 @@ source 'https://rubygems.org' gemspec
 #  gem "jekyll-feed", "~> 0.12"
 #  gem "jekyll-seo-tag", "~> 2.6"
 #end
-gem 'gemoji', '~> 4.0.0.rc2'
-gem 'jekyll-target-blank', '~> 2.0'
+gem "alpha_jekyll_theme"
 gem 'jekyll-theme-cayman-blog', '~> 0.0.9'
-gem 'gemoji'
+gem 'jemoji'
+gem "kramdown-parser-gfm"
