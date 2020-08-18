@@ -19,8 +19,8 @@
 # post.html
 # WebManga
 # MangaSites
-
-layout: home
+# layout: home
 pages: page
+posts: post
 
 ---
