@@ -12,8 +12,10 @@ theme: jekyll-theme-cayman
 #url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 plugins:
   - jemoji
+emoji:
+  src: "/assets/images/emoji"  
 defaults:
   - scope:
-      path: "assets/img"
+      path: "assets/"
     values:
       image: true
