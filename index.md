@@ -13,7 +13,6 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-# default.html
 # page.html
 # post.html
 # pages: page
