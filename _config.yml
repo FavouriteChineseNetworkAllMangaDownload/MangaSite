@@ -5,13 +5,17 @@ google_analytics:
 #cayman:
 #  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman
-#cayman-blog:
-#  date_format: "%b %-d, %Y"
-#theme: jekyll-theme-cayman-blog
+cayman-blog:
+  date_format: "%b %-d, %Y"
+theme: jekyll-theme-cayman-blog
+#theme: alpha_jekyll_theme
 plugins:
   - jemoji
+  - jekyll-target-blank
 gems: ["jemoji"]
-theme: alpha_jekyll_theme
+target-blank:
+    rel: nofollow
+header_page_refs: ['now', 'about', 'contact']
 #
 #
 #
