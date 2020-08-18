@@ -6,5 +6,6 @@ source 'https://rubygems.org' gemspec
 #end
 gem "jekyll-theme-cayman-blog"
 gem "kramdown-parser-gfm"
-gem "alpha_jekyll_theme"
 gem "jemoji"
+gem "jekyll-feed"
+gem "jekyll-seo-tag"
