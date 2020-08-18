@@ -20,7 +20,7 @@
 # WebManga
 # MangaSites
 # layout: home
-pages: page
-posts: post
+# pages: page
+# posts: post
 
 ---
