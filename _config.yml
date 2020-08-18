@@ -5,8 +5,6 @@ google_analytics:
 #cayman:
 #  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman
-rtd:
-  date_format: "%b %-d, %Y"
 theme: jekyll-rtd-theme
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
@@ -19,18 +17,10 @@ plugins:
   - jekyll-readme-index
   - jekyll-github-metadata
   - jekyll-titles-from-headings
-plugins:  
-  - jekyll-feed
-  - jekyll-seo-tag
 defaults:
   - scope:
       path: "assets/img"
     values:
       image: true
-copyright: false
-edit: false
-logo: false # relative path to your image, eg: assets/logo.png
-disqus: false # your disqus username
-addons: false
-addons_branch: false # means addons branch
-rougify: github
+      
+      
