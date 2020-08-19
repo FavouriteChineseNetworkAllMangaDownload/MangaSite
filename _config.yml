@@ -10,14 +10,10 @@ theme: jekyll-theme-cayman
 #theme: jekyll-theme-cayman-blog
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
-gems:
-  - jemoji
-  - jekyll-feed
-  - jekyll-seo-tag  
 #target-blank:
 #    rel: nofollow
-github_username: nohamedosama914
-rss: rss
+social_links:
+  - rss: rss
 plugins:
   - jemoji
   - jekyll-feed
@@ -25,7 +21,7 @@ plugins:
 header_pages:
   - Favourite
   - MangaSites
-show_excerpts: false
+show_excerpts: true
 #header_page_refs: ['favourite', 'mangasites', 'contact']
 #
 #
