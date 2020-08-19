@@ -3,9 +3,11 @@ layout: page
 title: Manga Sites
 tagline: A few more words Manga Sites this theme
 permalink: /MangaSites.html
-ref: MangaSites
+ref: mangasites
 order: 0
 ---
+
+
 | Manga Sites |
 |-------------|
 |[Manga Site The Star Emperor](/date_format/Manga-Site-The-Star-Emperor.html)|
