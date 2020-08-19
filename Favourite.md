@@ -3,7 +3,7 @@ layout: page
 title: Favourite
 tagline: A few more words Favourite this theme
 permalink: /Favourite.html
-ref: Favourite
+ref: favourite
 order: 0
 ---
 
