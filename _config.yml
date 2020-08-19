@@ -3,7 +3,7 @@ description: A Favourite Chinese Network All Manga
 show_downloads: false
 google_analytics:
 cayman:
-  date_format: "%b %-d, %Y"
+#  date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
@@ -30,7 +30,7 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag    
-header_page_refs: ['Favourite', 'MangaSites', 'contact']
+header_page_refs: ['favourite', 'mangasites', 'contact']
 #
 #
 #
