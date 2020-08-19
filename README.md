@@ -4,7 +4,7 @@
 |------- | ------|
 |[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/) | 116 |
 |[Subtitle Arabic](https://mangakm.com/manga/the-star-emperor/) | 116 |
-|[Subtitle English](https://mangabob.com/manga/reborn-80000-years/) | 117 |
+|[Subtitle English](https://mangabob.com/manga/reborn-80000-years/) | 118 |
 |[Subtitle Chinese](https://www.ohmanhua.com/13410/) | 118 |
 
 
