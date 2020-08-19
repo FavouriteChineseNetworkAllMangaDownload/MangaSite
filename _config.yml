@@ -1,15 +1,11 @@
 title: Network Web Manga Download Site
 description: A Favourite Chinese Network All Manga
-show_excerpts: true
+show_downloads: false
 google_analytics:
 cayman:
   date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
-show_downloads: true
-#false
-#cayman-blog:
-#  date_format: "%b %-d, %Y"
-#theme: jekyll-theme-cayman-blog
+show_excerpts: true
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
