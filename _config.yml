@@ -1,10 +1,12 @@
 title: Network Web Manga Download Site
 description: A Favourite Chinese Network All Manga
-show_downloads: false
+show_excerpts: true
 google_analytics:
 cayman:
   date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
+show_downloads: true
+#false
 #cayman-blog:
 #  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman-blog
@@ -18,10 +20,9 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag
-header_pages:
-  - Favourite
-  - MangaSites
-show_excerpts: true
+#header_pages:
+#  - Favourite
+#  - MangaSites
 #header_page_refs: ['favourite', 'mangasites', 'contact']
 #
 #
