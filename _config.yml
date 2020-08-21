@@ -26,10 +26,6 @@ plugins:
 #
 #
 #
-search:
- provider: default # "default" (default), false, "google", "custom"
- google:
-   custom_search_engine_id: # Google Custom Search Engine ID
 #author:
 #  type      : # "person" (default), "organization"
 #  name      : Your Name
@@ -68,8 +64,8 @@ disqus :
  enabled : true
  shortname : thedereck
  show_comment_count : true
-#rss :
-#  enabled : true
+rss :
+  enabled : true
 #  managingeditor :
 #    enabled : true
 #    managingeditor : @.com ()
@@ -82,5 +78,3 @@ disqus :
 #  image :
 #    enabled : true
 #    image : https://www.gravatar.com/avatar/2f8947394b8acb62ed0f08df91055f27.png?s=200
-#alert : true
-#notice : true
