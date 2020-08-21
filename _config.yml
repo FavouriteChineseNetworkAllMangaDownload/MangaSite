@@ -34,13 +34,13 @@ plugins:
 #  bio       :  path.
 #  email     :
 disqus:
-  shortname: my_disqus_shortname
+  shortname: networkwebmangadownload
   deaults:  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: post #single
+      layout: single #post
       author_profile: true
       read_time: true
       comments: true
