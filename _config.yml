@@ -6,8 +6,8 @@ description: A Favourite Chinese Network All Manga
 #  date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
 encoding: UTF-8
-#baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
-#url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
+baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
+url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
 #    rel: nofollow
 #social_links:
@@ -16,8 +16,8 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag
-header_page_refs: ['favourite'], ['mangasites'], ['contact']
-rss: #/feed.xml
+#header_page_refs: ['favourite'], ['mangasites'], ['contact']
+#rss: /feed.xml
 #
 #
 #
@@ -26,19 +26,19 @@ rss: #/feed.xml
 #
 #
 #
-search:
-  provider: default # "default" (default), false, "google", "custom"
-  google:
-    custom_search_engine_id: # Google Custom Search Engine ID
-author:
-  type      : # "person" (default), "organization"
-  name      : Your Name
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       :  path.
-  email     :
-favicon :
-  enabled : true
+#search:
+#  provider: default # "default" (default), false, "google", "custom"
+#  google:
+#    custom_search_engine_id: # Google Custom Search Engine ID
+#author:
+#  type      : # "person" (default), "organization"
+#  name      : Your Name
+#  url       :
+#  avatar    : # path or url of avatar image (square)
+#  bio       :  path.
+#  email     :
+#favicon :
+#  enabled : true
 #  local :
 #    enabled : true
 #    partial_url : /img/.png
@@ -47,13 +47,13 @@ favicon :
 #    enabled : false
 #    full_url : false
 #    type : false
-navbar :
+#navbar :
 #  archive :
 #    enabled : false
-  categories :
-    enabled : true
-  tags :
-    enabled : true
+#  categories :
+#    enabled : true
+#  tags :
+#    enabled : true
 #  social_links :
 #    enabled : false
 #  external_links :
@@ -64,10 +64,10 @@ navbar :
 #    - link :
 #      name : Baking Kookys
 #      url : http://bakingkookys.com
-comments:
-  provider: true
-  disqus :
-  - enabled : true
+#comments:
+#  provider: true
+#  disqus :
+#  - enabled : true
 #  shortname : thedereck
 #  show_comment_count : true
 #rss :
@@ -84,5 +84,5 @@ comments:
 #  image :
 #    enabled : true
 #    image : https://www.gravatar.com/avatar/2f8947394b8acb62ed0f08df91055f27.png?s=200
-alert : true
-notice : true
+#alert : true
+#notice : true
