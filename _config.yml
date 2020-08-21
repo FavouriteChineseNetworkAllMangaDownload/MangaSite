@@ -2,8 +2,8 @@ title: Network Web Manga Download Site
 description: A Favourite Chinese Network All Manga
 #show_downloads: false
 #google_analytics:
-#cayman:
-#  date_format: "%b %-d, %Y"
+cayman:
+  date_format: "%b %-d, %Y"
 #theme: jekyll-theme-cayman
 #encoding: UTF-8
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -68,8 +68,9 @@ comments:
   disqus:
     short_name: YOUR-DISQUS-FORUM-SHORTNAME-HERE
     api_key:    YOUR-DISQUS-PUBLIC-KEY-HERE
-defaults:
-  # _posts
+    
+    
+defaults:  # _posts
   - scope:
       path: ""
       type: posts
@@ -81,3 +82,4 @@ defaults:
       # true
       share: true
       related: true
+
