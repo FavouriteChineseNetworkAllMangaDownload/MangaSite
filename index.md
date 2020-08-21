@@ -14,5 +14,6 @@
 #
 
 
-layout: home
+layout: default
+# home
 ---
