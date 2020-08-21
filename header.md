@@ -1,10 +1,9 @@
 ---
-
-layout: page # default
-title: default
+layout: default
+title: page
 tagline: A few more words default this theme
 permalink: /header.html
-ref: default
+ref: PageDefault
 order: 0
 ---
 <div> {{ content }}
