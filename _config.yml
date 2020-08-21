@@ -2,8 +2,8 @@ title: Network Web Manga Download Site
 description: A Favourite Chinese Network All Manga
 #show_downloads: false
 #google_analytics:
-cayman:
-  date_format: "%b %-d, %Y"
+#cayman:
+#  date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
 
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -28,47 +28,49 @@ header_page_refs: ['favourite'], ['mangasites'], ['contact']
 #
 favicon :
   enabled : true
-  local :
-    enabled : true
-    partial_url : /img/.png
-    type : png
-  remote :
-    enabled : false
-    full_url : false
-    type : false
+#  local :
+#    enabled : true
+#    partial_url : /img/.png
+#    type : png
+#  remote :
+#    enabled : false
+#    full_url : false
+#    type : false
 navbar :
-  archive :
-    enabled : false
+#  archive :
+#    enabled : false
   categories :
     enabled : true
   tags :
     enabled : true
-  social_links :
-    enabled : false
-  external_links :
-    enabled : false
+#  social_links :
+#    enabled : false
+#  external_links :
+#    enabled : false
 
-external_links :
-  header : Links
+#external_links :
+#  header : Links
 #  links :
 #    - link :
 #      name : Baking Kookys
 #      url : http://bakingkookys.com
 disqus :
   enabled : true
-  shortname : thedereck
-  show_comment_count : true
-rss :
-  enabled : true
-  managingeditor :
-    enabled : true
-    managingeditor : @.com ()
-  webmaster :
-    enabled : true
-    webmaster : @.com ()
-  ttl :
-    enabled : true
-    ttl : 300
-  image :
-    enabled : true
-    image : https://www.gravatar.com/avatar/2f8947394b8acb62ed0f08df91055f27.png?s=200
+#  shortname : thedereck
+#  show_comment_count : true
+#rss :
+#  enabled : true
+#  managingeditor :
+#    enabled : true
+#    managingeditor : @.com ()
+#  webmaster :
+#    enabled : true
+#    webmaster : @.com ()
+#  ttl :
+#    enabled : true
+#    ttl : 300
+#  image :
+#    enabled : true
+#    image : https://www.gravatar.com/avatar/2f8947394b8acb62ed0f08df91055f27.png?s=200
+alert : true
+notice : true
