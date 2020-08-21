@@ -3,8 +3,6 @@ layout: page
 title: Favourite
 tagline: A few more words Favourite this theme
 permalink: /Favourite.html
-ref: favourite
-order: 0
 ---
 
 
