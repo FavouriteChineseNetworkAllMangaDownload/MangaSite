@@ -33,51 +33,17 @@ plugins:
 #  avatar    : # path or url of avatar image (square)
 #  bio       :  path.
 #  email     :
-#favicon :
-#  enabled : true
-#  local :
-#    enabled : true
-#    partial_url : /img/.png
-#    type : png
-#  remote :
-#    enabled : false
-#    full_url : false
-#    type : false
-#navbar :
-#  archive :
-#    enabled : false
-#  categories :
-#    enabled : true
-#  tags :
-#    enabled : true
-#  social_links :
-#    enabled : false
-#  external_links :
-#    enabled : false
-#external_links :
-#  header : Links
-#  links :
-#    - link :
-#      name : Baking Kookys
-#      url : http://bakingkookys.com
-#disqus :
-# enabled : true
-# shortname : YourName
-# show_comment_count : true
-comments:
-  disqus:
-#    short_name: YOUR-DISQUS-FORUM-SHORTNAME-HERE
-#    api_key:    YOUR-DISQUS-PUBLIC-KEY-HERE
+disqus:
+  shortname: my_disqus_shortname
   defaults:  # _posts
   - scope:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: post #single
       author_profile: true
       read_time: true
       comments: true
-      # true
       share: true
       related: true
 
