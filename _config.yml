@@ -60,7 +60,24 @@ plugins:
 #    - link :
 #      name : Baking Kookys
 #      url : http://bakingkookys.com
-disqus :
- enabled : true
- shortname : thedereck
- show_comment_count : true
+#disqus :
+# enabled : true
+# shortname : YourName
+# show_comment_count : true
+comments:
+  disqus:
+    short_name: YOUR-DISQUS-FORUM-SHORTNAME-HERE
+    api_key:    YOUR-DISQUS-PUBLIC-KEY-HERE
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: true
+      # true
+      share: true
+      related: true
