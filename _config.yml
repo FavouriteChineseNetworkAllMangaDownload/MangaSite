@@ -17,15 +17,9 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 #header_page_refs: ['favourite'], ['mangasites'], ['contact']
-author:
-  type      : person # "person" (default), "organization"
-  name      : Mohammed Osama
-  url       :
-  avatar    : # path or url of avatar image (square)
-  bio       :  path.
-  email     : 
 disqus:
-  shortname: networkwebmangadownload 
+  shortname: networkwebmangadownload
+
 #
 #
 #
