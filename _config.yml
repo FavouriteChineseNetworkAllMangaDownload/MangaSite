@@ -47,13 +47,13 @@ plugins:
 #    enabled : false
 #    full_url : false
 #    type : false
-#navbar :
+navbar :
 #  archive :
 #    enabled : false
-#  categories :
-#    enabled : true
-#  tags :
-#    enabled : true
+  categories :
+    enabled : true
+  tags :
+    enabled : true
 #  social_links :
 #    enabled : false
 #  external_links :
@@ -64,12 +64,12 @@ plugins:
 #    - link :
 #      name : Baking Kookys
 #      url : http://bakingkookys.com
-#comments:
-#  provider: true
-#  disqus :
-#  - enabled : true
-#  shortname : thedereck
-#  show_comment_count : true
+comments:
+  provider: true
+  disqus :
+  - enabled : true
+  - shortname : thedereck
+# - show_comment_count : true
 #rss :
 #  enabled : true
 #  managingeditor :
