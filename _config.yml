@@ -5,7 +5,7 @@ description: A Favourite Chinese Network All Manga
 #cayman:
 #  date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
-
+rss: /feed.xml
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
