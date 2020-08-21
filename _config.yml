@@ -58,15 +58,16 @@ navbar :
 #    enabled : false
 #  external_links :
 #    enabled : false
-
 #external_links :
 #  header : Links
 #  links :
 #    - link :
 #      name : Baking Kookys
 #      url : http://bakingkookys.com
-disqus :
-  enabled : true
+comments:
+  provider: true
+  disqus :
+  - enabled : true
 #  shortname : thedereck
 #  show_comment_count : true
 #rss :
