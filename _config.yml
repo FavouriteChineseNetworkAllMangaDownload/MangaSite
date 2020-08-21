@@ -26,6 +26,14 @@ header_page_refs: ['favourite'], ['mangasites'], ['contact']
 #
 #
 #
+#
+author:
+  type      : # "person" (default), "organization"
+  name      : Your Name
+  url       :
+  avatar    : # path or url of avatar image (square)
+  bio       :  path.
+  email     :
 favicon :
   enabled : true
 #  local :
