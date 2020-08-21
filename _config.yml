@@ -35,7 +35,7 @@ plugins:
 #  email     :
 disqus:
   shortname: my_disqus_shortname
-  defaults:  # _posts
+  deaults:  # _posts
   - scope:
       path: ""
       type: posts
@@ -46,6 +46,3 @@ disqus:
       comments: true
       share: true
       related: true
-
-
-
