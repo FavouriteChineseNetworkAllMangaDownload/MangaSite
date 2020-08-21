@@ -18,8 +18,9 @@ layout: default
   <div itemprop="articleBody">
     {{ content }}
   </div>
-
   {% if site.disqus.shortname %}
-    {% include disqus_comments.html %}
+  <!-- {% include disqus_comments.html %} -->
+  {% layout DisqusComments.html %}
   {% endif %}
+
 </article>
