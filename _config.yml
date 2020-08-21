@@ -4,8 +4,8 @@ description: A Favourite Chinese Network All Manga
 #google_analytics:
 cayman:
   date_format: "%b %-d, %Y"
-theme: jekyll-theme-cayman
-encoding: UTF-8
+#theme: jekyll-theme-cayman
+#encoding: UTF-8
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
@@ -35,14 +35,14 @@ plugins:
 #  email     :
 disqus:
   shortname: networkwebmangadownload
-  deaults:  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single #post
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+#  deaults:  # _posts
+#  - scope:
+#      path: ""
+#      type: posts
+#    values:
+#      layout: single #post
+#      author_profile: true
+#      read_time: true
+#      comments: true
+#      share: true
+#      related: true
