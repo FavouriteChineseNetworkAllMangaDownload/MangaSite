@@ -17,7 +17,7 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 #header_page_refs: ['favourite'], ['mangasites'], ['contact']
-rss: #/feed.xml
+#
 #
 #
 #
@@ -50,10 +50,10 @@ search:
 #navbar :
 #  archive :
 #    enabled : false
-  categories :
-    enabled : true
-  tags :
-    enabled : true
+#  categories :
+#    enabled : true
+#  tags :
+#    enabled : true
 #  social_links :
 #    enabled : false
 #  external_links :
