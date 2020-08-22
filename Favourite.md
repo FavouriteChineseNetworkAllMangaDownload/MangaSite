@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Favourite
-tagline: A few more words Favourite this theme
 permalink: /Favourite.html
+categories: [Category Pages Plugin, jekyll]
 ---
 
 
