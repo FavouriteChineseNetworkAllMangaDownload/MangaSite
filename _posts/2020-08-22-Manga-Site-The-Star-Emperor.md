@@ -1,9 +1,8 @@
 ---
 
-# default
 # title:  "Manga Site The Star emperor Reborn 80,000 Years"
-layout: category_index
-categories: ["Manga", "Chapters"]
+layout: default
+categories: [Category Pages Plugin, jekyll, "Manga", "Chapters"]
 ---
 
 |Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters <md>:new:</md> (Status)|
