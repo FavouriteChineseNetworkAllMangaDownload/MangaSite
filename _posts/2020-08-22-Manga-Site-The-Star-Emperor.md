@@ -1,6 +1,6 @@
 ---
 
-layout: default, category_index
+layout: [default, category_index]
 categories: [Manga, Chapters]
 ---
 
