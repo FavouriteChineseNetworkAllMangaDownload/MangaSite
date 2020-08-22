@@ -1,11 +1,11 @@
 ---
-
-layout: default
 categories: [Manga, Chapters]
----
+
+
+
 
 ---
-
+---
 
 
 
