@@ -8,8 +8,8 @@ theme: jekyll-theme-cayman
 permalink: /:year/:month/:day/:title:output_ext
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
-#target-blank:
-#    rel: nofollow
+#categories: [Category Pages Plugin, jekyll]
+#
 plugins:
   - jemoji
   - jekyll-feed
@@ -17,29 +17,19 @@ plugins:
   - jekyll-paginate  
   - jekyll-category-pages
 encoding: UTF-8  
-categories: [Category Pages Plugin, jekyll]
 disqus:
   shortname: networkwebmangadownload
-#
-#
-#
-#
-#
-#
-#
-#
-#  deaults:  # _posts
-#  - scope:
-#      path: ""
-#      type: posts
-#    values:
-#      layout: single #post
-#      author_profile: true
-#      read_time: true
-#      comments: true
-#      share: true
-#      related: true
-#
 #header_page_refs: ['favourite'], ['mangasites'], ['contact']
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #
