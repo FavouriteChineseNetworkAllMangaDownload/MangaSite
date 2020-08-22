@@ -10,17 +10,15 @@ baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empt
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
 #    rel: nofollow
-#social_links:
-#  - rss: rss
 plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag
-#header_page_refs: ['favourite'], ['mangasites'], ['contact']
+  - jekyll-category-pages
+categories: [Category Pages Plugin, jekyll]
+permalink: /:year/:month/:day/:title:output_ext
 disqus:
   shortname: networkwebmangadownload
-
-#
 #
 #
 #
@@ -41,3 +39,7 @@ disqus:
 #      comments: true
 #      share: true
 #      related: true
+#
+#header_page_refs: ['favourite'], ['mangasites'], ['contact']
+#
+#
