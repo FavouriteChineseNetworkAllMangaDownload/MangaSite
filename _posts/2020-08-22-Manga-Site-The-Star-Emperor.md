@@ -1,6 +1,6 @@
 ---
 
-layout: default, post, example, category_index
+layout: default
 categories: [Manga, Chapters]
 ---
 
