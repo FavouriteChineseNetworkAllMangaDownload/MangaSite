@@ -8,8 +8,6 @@ theme: jekyll-theme-cayman
 permalink: /:year/:month/:day/:title:output_ext
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
-#categories: [Category Pages Plugin, jekyll]
-#
 plugins:
   - jemoji
   - jekyll-feed
