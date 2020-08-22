@@ -5,7 +5,7 @@ description: A Favourite Chinese Network All Manga
 cayman:
   date_format: "%b %-d, %Y"
 theme: jekyll-theme-cayman
-encoding: UTF-8
+permalink: /:year/:month/:day/:title:output_ext
 baseurl: "" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
 url: "https://favouritechinesenetworkallmangadownload.github.io" # change this to the base hostname & protocol for your site
 #target-blank:
@@ -14,12 +14,12 @@ plugins:
   - jemoji
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate  
   - jekyll-category-pages
+encoding: UTF-8  
 categories: [Category Pages Plugin, jekyll]
-permalink: /:year/:month/:day/:title:output_ext
 disqus:
   shortname: networkwebmangadownload
-#
 #
 #
 #
