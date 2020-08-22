@@ -1,8 +1,6 @@
----
-# default
+--- # default
 layout: category_index
 title:  "Manga Site The Star emperor Reborn 80,000 Years"
-date:   2020-08-21 12:00:00 +0100
 categories: ["Manga", "Chapters"]
 ---
 |Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters <md>:new:</md> (Status)|
