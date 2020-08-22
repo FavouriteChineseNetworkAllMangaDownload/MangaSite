@@ -1,5 +1,10 @@
-<!--<div align="center"><b><p>-->
+---
 
+layout: default
+title:  "Manga Site The Star emperor Reborn 80,000 Years"
+date:   2020-08-21 12:00:00 +0100
+categories: ["Books & Publications", "Great < & Greater"]
+---
 |Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters <md>:new:</md> (Status)|
 |------- | ------|
 |[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/) | 116 |
