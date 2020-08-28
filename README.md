@@ -2,16 +2,16 @@
 ---
 <!--|Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters :new: (Status) |
 |------- | ------|
-|[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/) | 116 |
-|[Subtitle Arabic](https://mangakm.com/manga/the-star-emperor/) | 116 |
-|[Subtitle English](https://mangabob.com/manga/reborn-80000-years/) | 119 |
-|[Subtitle Chinese](https://www.ohmanhua.com/13410/) | 119 |-->
+|[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/) | 120 |
+|[Subtitle Arabic](https://mangakm.com/manga/the-star-emperor/) | 118 |
+|[Subtitle English](https://mangabob.com/manga/reborn-80000-years/) | 121 |
+|[Subtitle Chinese](https://www.ohmanhua.com/13410/) | 121 |-->
 
 
 <!--|Manga Site The Great Mage Returns After 4000 Years (4000년 만에 귀환한 대마도사) | Chapters :new: (Status) |
 |--|--|
-|[Subtitle Arabic](https://www.azoramanga.com/manga/the-great-mage-returns-after-4000-years/) | 42 |
-|[Subtitle Arabic](https://mangalek.com/manga/the-great-mage-returns-after-4000-years/) | 42 |
+|[Subtitle Arabic](https://www.azoramanga.com/manga/the-great-mage-returns-after-4000-years/) | 43 |
+|[Subtitle Arabic](https://mangalek.com/manga/the-great-mage-returns-after-4000-years/) | 43 |
 |[Subtitle English](https://toonily.net/manga/the-great-mage-returns-after-4000-years/) | 42 |
 |[Subtitle Korean](https://page.kakao.com/home?seriesId=50621874&page=1) | 221 (Completed Part 1) |-->
 
