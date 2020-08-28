@@ -18,8 +18,7 @@ categories: [Manga, Chapters]
 |[Subtitle Korean](https://page.kakao.com/home?seriesId=50621874&page=1) | 221 (Completed Part 1) |
 
 
-<!--<div align="center"><b><p>-->
-<!--[Subtitle Korean](https://namu.wiki/w/4000%EB%85%84%20%EB%A7%8C%EC%97%90%20%EA%B7%80%ED%99%98%ED%95%9C%20%EB%8C%80%EB%A7%88%EB%8F%84%EC%82%AC)-->
+<!-- <div align="center"><b><p> [Subtitle Korean](https://namu.wiki/w/4000%EB%85%84%20%EB%A7%8C%EC%97%90%20%EA%B7%80%ED%99%98%ED%95%9C%20%EB%8C%80%EB%A7%88%EB%8F%84%EC%82%AC) -->
 
 
 
