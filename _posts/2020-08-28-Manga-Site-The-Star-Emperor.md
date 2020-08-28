@@ -10,8 +10,6 @@ categories: [Manga, Chapters]
 ---
 ---
 
-
-
 |Manga Site The Star emperor Reborn 80,000 Years (重生八万年) | Chapters <md>:new:</md> (Status)|
 |------- | ------|
 |[Subtitle Arabic](https://www.azoramanga.com/manga/the-star-emperor/) | 120 |
