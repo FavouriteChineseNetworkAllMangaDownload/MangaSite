@@ -12,9 +12,9 @@ categories: [Manga, Chapters]
 
 |Manga Site The Great Mage Returns After 4000 Years (4000년 만에 귀환한 대마도사) | Chapters :new: (Status)|
 |------ | -----|
-|[Subtitle Arabic](https://www.azoramanga.com/manga/the-great-mage-returns-after-4000-years/) | 52 |
-|[Subtitle Arabic](https://mangalek.com/manga/the-great-mage-returns-after-4000-years/) | 52 |
-|[Subtitle English](https://toonily.net/manga/the-great-mage-returns-after-4000-years/) | 52 |
+|[Subtitle Arabic](https://www.azoramanga.com/manga/the-great-mage-returns-after-4000-years/) | 67 |
+|[Subtitle Arabic](https://mangalek.com/manga/the-great-mage-returns-after-4000-years/) | 67 |
+|[Subtitle English](https://toonily.net/manga/the-great-mage-returns-after-4000-years/) | 67 |
 |[Subtitle Korean](https://page.kakao.com/home?seriesId=50621874&page=1) | 221 (Completed Part 1) |
 
 
